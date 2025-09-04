@@ -1,0 +1,7 @@
+#!/home/dhruv/.local/share/Trash/files/pypy3.11-v7.3.20-linux64/my-pypy-venv/bin/pypy3.11
+import sys
+from pulp.tests.run_tests import pulpTestAll
+if __name__ == '__main__':
+    if sys.argv[0].endswith('.exe'):
+        sys.argv[0] = sys.argv[0][:-4]
+    sys.exit(pulpTestAll())

@@ -1,0 +1,9 @@
+libtinfow.so.6
+libncursesw.so.6
+libtcl8.6.so
+libtk8.6.so
+libsqlite3.so.0
+libexpat.so.1
+libpanelw.so.6
+tk8.6
+tcl8.6
