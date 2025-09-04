@@ -20,7 +20,7 @@ A Python-based optimization tool for managing and optimizing air fleet supply ch
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dhruvhaldar/AirFleet-Supply-Optimizer--AFSO-.git
    cd AirFleet-Supply-Optimizer--AFSO-
    ```
 
