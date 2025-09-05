@@ -130,7 +130,8 @@ For any questions or suggestions, please open an issue or contact the repository
 ├── milp.ipynb    # MILP optimization model
 ├── ilp.ipynb     # ILP optimization model
 ├── requirements.txt     # Project dependencies
-├── my-pypy-venv  # Virtual environment
+├── my-pypy-venv  # Pypy virtual environment
+├── my-python-venv  # Python virtual environment
 ```
 
 ## Contributing
