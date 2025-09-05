@@ -34,15 +34,15 @@ The ILP model (in `ilp.ipynb`) offers an alternative approach with:
 
 ## 📦 Prerequisites
 
-- Python 3.8+
-- PyPy (recommended for better performance)
+- Python 3.11+ or Pypy3.11+
+- PyPy is recommended for better performance, however it currently doesn't properly support libraries such as SciPy. Thus, usage of Python is recommended in those cases.
 - Jupyter Notebook (for viewing and running the notebooks)
-- Required Python packages (see `requirements.txt`):
+- Required Python packages (see `requirements_pypy.txt` or `requirements_python.txt`):
   - PuLP (for optimization)
   - NumPy (for numerical operations)
   - Matplotlib (for visualization)
   - Pandas (for data manipulation)
-  - Scipy (for solving ARE)
+  - SciPy (for solving ARE)
 
 ## 🚀 Installation
 
