@@ -11,7 +11,7 @@ This repository contains projects that bridge **optimization** and **control the
 
 ---
 
-## 📋 Features
+## Features
 
 ### 🛠 Optimization (MILP/ILP)
 - **Multi-period planning** for aerospace spare parts  
@@ -29,7 +29,7 @@ This repository contains projects that bridge **optimization** and **control the
 
 ---
 
-## 📦 Prerequisites
+## Prerequisites
 
 - Python 3.11+ (or PyPy3.11+, but note SciPy is not fully supported in PyPy)  
 - Jupyter Notebook (for running models interactively)  
@@ -39,7 +39,7 @@ This repository contains projects that bridge **optimization** and **control the
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/dhruvhaldar/AirFleet-Supply-Optimizer.git
