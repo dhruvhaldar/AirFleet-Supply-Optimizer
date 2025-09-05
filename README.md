@@ -42,6 +42,7 @@ The ILP model (in `ilp.ipynb`) offers an alternative approach with:
   - NumPy (for numerical operations)
   - Matplotlib (for visualization)
   - Pandas (for data manipulation)
+  - Scipy (for solving ARE)
 
 ## 🚀 Installation
 
