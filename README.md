@@ -1,9 +1,12 @@
 # ✈️ Real-World Aerospace Optimization & Control Problems
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![PuLP](https://img.shields.io/badge/PuLP-2.7.0-blue)](https://coin-or.github.io/pulp/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-f5d7e3)](https://www.python.org/)
+[![PuLP](https://img.shields.io/badge/PuLP-2.7.0-purple)](https://coin-or.github.io/pulp/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
+[![PyPy](https://img.shields.io/badge/PyPy-3.11%2B-blue)](https://www.pypy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-1.11.2-yellow)](https://www.scipy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-A8DADC)](https://matplotlib.org/)
 
 This repository contains projects that bridge **optimization** and **control theory** for real-world aerospace problems:
 - Optimize **spare parts distribution & inventory** using MILP/ILP  
