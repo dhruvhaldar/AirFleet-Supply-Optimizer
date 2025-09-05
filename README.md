@@ -15,7 +15,7 @@ Optimize aerospace spare parts distribution and inventory management using advan
 - **Real-world Constraints**: Account for truck capacity, order lead times, and repair returns
 - **Visual Analytics**: Generate insightful visualizations of optimization results
 
-## 🛠️ Implementation Approaches
+## 🛠️ Test cases
 
 ### 1. Mixed Integer Linear Programming (MILP)
 The MILP model (in `milp.ipynb`) provides a comprehensive solution for multi-period aerospace spare parts distribution with:
@@ -29,6 +29,8 @@ The ILP model (in `ilp.ipynb`) offers an alternative approach with:
 - Pure integer programming formulation
 - Simplified constraints for specific use cases
 - Performance-optimized for certain problem sizes
+
+### 3. Linear Quadratic Integral (LQI) Controller
 
 ## 📦 Prerequisites
 
